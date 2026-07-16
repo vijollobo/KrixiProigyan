@@ -4,7 +4,7 @@
 
 This project has been built from the ground up as a standalone, open-source demonstration: every feature originally sketched across slide decks (soil health monitoring, crop recommendation, smart irrigation, fertilizer advisory, multilingual farmer alerts) has been implemented as real, runnable code in a single unified application, with the IoT hardware layer simulated so the ML/software side can be evaluated on its own merits.
 
-This project can be accessed without downloading using this [link].(https://krixiproigyan.streamlit.app/)
+This project can be accessed without downloading using this [link](https://krixiproigyan.streamlit.app/).
 
 > 📊 A slide deck (`কৃষিপ্ৰজ্ঞান Krixiproigyan.pptx`) describing the original concept and motivation is included in this repository for background context. The application itself supersedes the deck — this README documents what is actually implemented.
 
